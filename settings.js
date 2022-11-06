@@ -11,8 +11,29 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `📤🍁👉🏾😌Hide All th¡ngs bEhind tHe Smile😌👈🏾:|🍃
+
+🔴 WELCOME TO CYBER NETWORK 
+
+💥 SONG DOWNLOAD 
+
+💥 VIDEO DOWNLOAD 
+
+💥 IMAGE DOWNLOAD 
+
+💥 APK  DOWNLOAD 
+
+💥 MWDIAFIRE DOWNLOAD 
+
+💥 STICKER CREATE 
+
+💥 සියලූම බොට්ලගෙ ඇති ඌ YOUTUBE CONECTION ERROR එක නිසාවෙන් මෙම බොට්ගෙ ඇති අඩු පාඩු මීලග UPDATE මගින් Fix  කිරීමට බලාපොරොත්තු වන බවත් දන්වා සිටිමි ❤️🥀
+
+🔥 OWNER : YumalWidu
+
+💥 CONTACT : https://wa.me/+94756982485
+
+🍁⊰-◑(ප̶͢ᵂ̶ضක͢ᴿ̶ᴬ̶̭පුشමි͢ᴺ̶ᴵ̶̥ස්සුظ̶̽نපුද̶ᴮ̶͢ᴵ̶මකظ̥شභාව̶͢ᴺ̶ᴬ̶᪵වේ:|🍃😉` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -30,7 +51,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
 global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.ownername = "😎Yumal Widunitha " // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -47,13 +68,13 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.owner = ['+94756982485']
+global.ownertag = '+94756982485' //your tag number
+global.botname = 'YumalWidu- 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "YumalWidu" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ ◉ YumAlWidu- ᴍᴅ ]' //
 
 //database
 global.premium = ['+380944814219'] //ur premium numbers
